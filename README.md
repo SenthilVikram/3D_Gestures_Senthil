@@ -1,6 +1,6 @@
-# Gestures Classification by Transfer Learning of popular CNN Architectures 
+# 3D Gestures Project
 
-### SOC Project - Task 1
+## SOC Project - Task 1
 
 In this task, transfer learning of popular CNN Architectures is used to classify hand gestures.
 You can find the dataset link [here](https://drive.google.com/drive/folders/14MgJdRSxVCNwpUHXJQ_7NXPQFT-Oz4CB?usp=sharing)
