@@ -17,4 +17,6 @@ Total 5 classes are used to and entire code is written in PyTorch.
 ## SOC Project - Task 2
 
 In this task, I classified gestures from an input video accessed from drive. I classified each frame after an approx time interval in changing the gesture. Resnet50 model used in task 1 was also used here to classify frames in video.
+A sample output of a classified frame would look like this below
 
+<img src="https://github.com/SenthilVikram/3D_Gestures_Senthil/blob/master/GestureClassification_Video_PyTorch_SOCtask2/imageforREADME.png" width="248">
